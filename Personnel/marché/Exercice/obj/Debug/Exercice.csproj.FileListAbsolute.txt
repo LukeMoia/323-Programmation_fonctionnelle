@@ -1,8 +1,0 @@
-D:\ETML_module_en_cours\M-323 (Programmation Fonctionel)\323-Programmation_fonctionnelle\Personnelle\marché\Exercice\bin\Debug\Exercice.exe.config
-D:\ETML_module_en_cours\M-323 (Programmation Fonctionel)\323-Programmation_fonctionnelle\Personnelle\marché\Exercice\bin\Debug\Exercice.exe
-D:\ETML_module_en_cours\M-323 (Programmation Fonctionel)\323-Programmation_fonctionnelle\Personnelle\marché\Exercice\bin\Debug\Exercice.pdb
-D:\ETML_module_en_cours\M-323 (Programmation Fonctionel)\323-Programmation_fonctionnelle\Personnelle\marché\Exercice\obj\Debug\Exercice.csproj.AssemblyReference.cache
-D:\ETML_module_en_cours\M-323 (Programmation Fonctionel)\323-Programmation_fonctionnelle\Personnelle\marché\Exercice\obj\Debug\Exercice.csproj.SuggestedBindingRedirects.cache
-D:\ETML_module_en_cours\M-323 (Programmation Fonctionel)\323-Programmation_fonctionnelle\Personnelle\marché\Exercice\obj\Debug\Exercice.csproj.CoreCompileInputs.cache
-D:\ETML_module_en_cours\M-323 (Programmation Fonctionel)\323-Programmation_fonctionnelle\Personnelle\marché\Exercice\obj\Debug\Exercice.exe
-D:\ETML_module_en_cours\M-323 (Programmation Fonctionel)\323-Programmation_fonctionnelle\Personnelle\marché\Exercice\obj\Debug\Exercice.pdb
